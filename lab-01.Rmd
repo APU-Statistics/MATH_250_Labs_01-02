@@ -1,7 +1,7 @@
 ---
 title: "Lab 01: Hello R!"
 subtitle: ""
-author: "YOUR NAME HERE"
+author: "Group member names here"
 date: "due September 6"
 output: 
   html_document:
