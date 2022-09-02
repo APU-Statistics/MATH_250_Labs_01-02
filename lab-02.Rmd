@@ -75,7 +75,7 @@ Those who hunt and fish tend to be more politically conservative.
 
 # Exercise 9
 
-```{r ex-9, message = FALSE, warning = FALSE}
+```{r ex-9}
 
 ```
 
